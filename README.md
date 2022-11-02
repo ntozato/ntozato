@@ -2,7 +2,7 @@
   <h1>Nícolas Tozato</h1>
 </div>
 <div align="center">
-  <h3>Desenvolvedor de Software</h23>
+  <h3>Desenvolvedor Web</h23>
 </div>
 <div>
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-tozato-a03a7520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
